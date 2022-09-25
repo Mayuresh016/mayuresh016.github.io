@@ -64,6 +64,8 @@ width: 30%;
  
  <a style="align-items: center;"  href="adminReg"> <button type="button" >Register</button> </a>
  </form>
+     <p> Mayuresh
+     </p>
  </div>
  </div> <br>
 
